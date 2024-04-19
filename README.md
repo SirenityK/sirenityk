@@ -2,7 +2,7 @@
 I'm a math-loving, self-taught programmer who's been in the programming world for over two years now. Currently a student in University. Every day I'm learning about new software tech, and I'm constantly expanding my skillset.
 ### Here's what I've been diving into:
 - **Languages**: Python (most proficient), Kotlin, JavaScript, TypeScript
-- **Frameworks** & Libraries: Svelte, Next.js, React, Preact, Django, SolidJS, FastAPI
+- **Frameworks & Libraries:** Svelte, Next.js, React, Preact, Django, SolidJS, FastAPI
 - **Frontend**: CSS preprocessors, Vite, Webpack, Web Assembly
 - **Backend**: RESTful APIs, Full-stack development
 - **Databases**: Redis, Cassandra, MongoDB (working with Celery) (SQL on the learning horizon)
